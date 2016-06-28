@@ -1,0 +1,14 @@
+layout_spectrum: 0.7649835406336933
+typography_spectrum: 0.4230259663891047
+color:
+  brandStrength: 0.2504020961932838
+  lightness: 0.7693947434891015
+  saturation: 0.2412745882757008
+  rhythmicContrast: 0.3453392672818154
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Blog Fondify
